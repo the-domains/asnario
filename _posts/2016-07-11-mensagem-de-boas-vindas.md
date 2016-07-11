@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Olá amiguinhos e amiguinhas!
-datePublished: '2016-07-11T14:50:10.139Z'
-dateModified: '2016-07-11T14:49:43.272Z'
+datePublished: '2016-07-11T14:56:34.880Z'
+dateModified: '2016-07-11T14:50:18.850Z'
 title: Mensagem de boas vindas!
 author: []
+sourcePath: _posts/2016-07-11-mensagem-de-boas-vindas.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-11-mensagem-de-boas-vindas.md
 url: mensagem-de-boas-vindas/index.html
 _type: Article
 
