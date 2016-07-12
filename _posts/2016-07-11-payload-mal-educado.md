@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Questão: Qual o tamanho máximo possível da carga de dados (payload) num
   segmento TCP? Justifique sua resposta.
-datePublished: '2016-07-11T15:13:03.345Z'
-dateModified: '2016-07-11T15:12:56.682Z'
+datePublished: '2016-07-12T18:31:51.697Z'
+dateModified: '2016-07-12T18:31:36.887Z'
 title: Payload mal educado !
 author: []
 sourcePath: _posts/2016-07-11-payload-mal-educado.md
